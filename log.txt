@@ -1,3 +1,4 @@
-ab3ed01 (HEAD -> main) Task 1.2 - update commit log
+fb3e19e (HEAD -> main) Task 2.1 - refactr statement printer
+ab3ed01 Task 1.2 - update commit log
 6c49435 Task 1.1 - fix checkstyle issues
 a1d23b8 (origin/main, origin/HEAD) Initial commit
